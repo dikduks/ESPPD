@@ -1,7 +1,8 @@
 <?php
 
-use App\Http\Controllers\PegawaiController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\LoginController;
+use App\Http\Controllers\PegawaiController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,4 +16,6 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get('/', [PegawaiController::class, 'index']);
 Route::get('/pegawai',[PegawaiController::class,'create']);
+Route::get('/login',[LoginController::class,'login']);
+
 // Route::get('/',[PegawaiController::class, 'create']);

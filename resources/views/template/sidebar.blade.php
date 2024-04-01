@@ -164,7 +164,7 @@
                         <div class="collapse" id="account-collapse" style="">
                             <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                                 <li><a href="#" class="link-dark rounded">Profile</a></li>
-                                <li><a href="#" class="link-dark rounded">Sign out</a></li>
+                                <li><a href="/login" class="link-dark rounded">Sign out</a></li>
                             </ul>
                         </div>
                     </li>
