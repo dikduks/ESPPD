@@ -154,7 +154,7 @@
                     <li class="nav-item"><a class="nav-link" href="#">Approval Perjadin</a></li>
                     <li class="border-top my-3">Pengaturan</li>
                     <li class="nav-item"><a class="nav-link" href="/pegawai">Kepegawaian</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Standar Biaya Masukan</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Standar Biaya Masukan (SBM)</a></li>
                     <li class="border-top my-3"></li>
                     <li class="mb-1">
                         <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse"
