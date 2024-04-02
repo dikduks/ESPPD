@@ -17,5 +17,4 @@ use App\Http\Controllers\PegawaiController;
 Route::get('/', [PegawaiController::class, 'index']);
 Route::get('/pegawai',[PegawaiController::class,'create']);
 Route::get('/login',[LoginController::class,'login']);
-
 // Route::get('/',[PegawaiController::class, 'create']);
