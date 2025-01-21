@@ -11,6 +11,10 @@ class LoginController extends Controller
         return view('login.login');
     }
 
+    public function level()
+    {
+        return view('login.login');
+    }
 }
 
 ?>
